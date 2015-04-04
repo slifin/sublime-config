@@ -4,8 +4,11 @@
 	],
 	"installed_packages":
 	[
+		"Git",
 		"Package Control",
 		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeOnSaveBuild",
 		"Vintageous"
 	]
 }
